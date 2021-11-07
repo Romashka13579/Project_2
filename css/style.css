@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(223, 241, 241);
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+    }
+    img{
+        background-color:skyblue ;
+        border-radius: 50%;
+    }
+    a{
+        font-size: 22px;
+        text-decoration-line: none;
+        font-weight: 1000;
+        color: rgb(0, 0, 100);
+    }
+    ul{
+      list-style-type: square;  
+    }
+    h2{
+        color:black;
+    }
+    h1{
+        color:black;
+    }
+    li{
+        color:black;
+    }
